@@ -1,6 +1,6 @@
 Hello Git and GitHub
 
-Vanessa here. I'm just a stay-at-home mom ready to finally get out there.
+I'm just a stay-at-home mom ready to finally get out there.
 It's a great thing when the kids are in school and becoming more independent.
 
 Working on a 2nd degree now in Computer Science. 
