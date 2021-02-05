@@ -5,4 +5,5 @@ It's a great thing when the kids are in school and becoming more independent.
 
 Working on a 2nd degree now in Computer Science. 
 
-I've worked with C, Java, and Python.
+I've worked with C, Java, and Python. 
+Now I'm learning Git!
